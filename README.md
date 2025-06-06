@@ -17,7 +17,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Chat Global**: Permite que os fãs da FURIA conversem em tempo real.
 - **Chatbot**: Responde a perguntas e interage com os usuários em uma conversa automatizada.
 - **Armazenamento no Firebase**: As mensagens são armazenadas em tempo real utilizando o Firebase Realtime Database.
-- **Design Responsivo: A interface se adapta perfeitamente a qualquer dispositivo, seja desktop, tablet ou mobile.
+- **Design Responsivo**: A interface se adapta perfeitamente a qualquer dispositivo, seja desktop, tablet ou mobile.
 
 ## Link do Projeto
 
